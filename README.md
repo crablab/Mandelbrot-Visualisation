@@ -4,3 +4,5 @@ A visualisation of the mathematical Mandelbrot set in Python. You can find more 
 You must have Matplotlib installed. You can find the library here: http://matplotlib.org/
 
 'vis2.py' is currently the stable version. You can run it thus: ```python vis2.py```
+
+#####The second visulisation is based upon code from http://rosettacode.org/wiki/Mandelbrot_set#Python
